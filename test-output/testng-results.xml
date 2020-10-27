@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28022" started-at="2020-10-23T16:43:51Z" finished-at="2020-10-23T16:44:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28022" started-at="2020-10-23T16:43:51Z" finished-at="2020-10-23T16:44:19Z">
+      <class name="com.OrangeHRM.qa.testcases.MyInfoPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.OrangeHRM.qa.testcases.MyInfoPageTest@e50a6f6]" name="setUp" is-config="true" duration-ms="18924" started-at="2020-10-23T22:13:51Z" finished-at="2020-10-23T22:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateMyInfo()[pri:0, instance:com.OrangeHRM.qa.testcases.MyInfoPageTest@e50a6f6]" name="validateCreateMyInfo" duration-ms="8358" started-at="2020-10-23T22:14:10Z" finished-at="2020-10-23T22:14:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateMyInfo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.OrangeHRM.qa.testcases.MyInfoPageTest@e50a6f6]" name="tearDown" is-config="true" duration-ms="706" started-at="2020-10-23T22:14:18Z" finished-at="2020-10-23T22:14:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRM.qa.testcases.MyInfoPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
